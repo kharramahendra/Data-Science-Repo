@@ -67,7 +67,7 @@ Additional content, notes, and resources covering miscellaneous topics.
 
 ## Contributing
 
-Contributions are welcome! If you have valuable resources, notes, or code snippets to add, please follow the [Contributing Guidelines](CONTRIBUTING.md).
+Contributions are welcome! If you have valuable resources, notes, or code snippets to add, please contribute for the data science community.
 
 ## Credits
 
@@ -75,6 +75,6 @@ A big thank you to all contributors and sources! Check [Credits](credits.md) for
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). Feel free to use the code and resources with proper attribution.
+ Feel free to use the code and resources with proper attribution.
 
 Happy learning and coding! 📊📈📉
