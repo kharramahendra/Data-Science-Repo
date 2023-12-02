@@ -1,61 +1,80 @@
 # Data Science Repository
 
-Welcome to the Data Science Repository! 🚀 This repository is a curated collection of resources, notes, and code snippets to help developers and data enthusiasts learn and master various aspects of data science.
+Welcome to the Data Science Repository! 🚀 This repository serves as a comprehensive resource for data scientists, providing a curated collection of code snippets, notes, and resources across various topics.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Contents](#contents)
-- [Contributing](#contributing)
-- [Credits](#credits)
-- [License](#license)
+1. [Statistics](#1-statistics)
+2. [Maths](#2-maths)
+3. [Python Programming](#3-python-programming)
+4. [Python Libraries](#4-python-libraries---numpy-pandas-matplotlib-seaborn-sklearn)
+5. [Data Preprocessing Codes](#5-data-preprocessing-codes)
+6. [Machine Learning](#6-machine-learning)
+7. [Deep Learning](#7-deep-learning)
+8. [NLP/NLP by Krish Naik](#8-nlpnlp-by-krish-naik)
+9. [SQL](#9-sql)
+10. [MLOPS](#10-mlops)
+11. [Transformers](#11-transformers)
+12. [Others](#12-others)
 
-## Introduction
+## 1. Statistics
 
-Whether you're a beginner looking to explore the world of data science or an experienced practitioner seeking additional resources, this repository is designed to cater to all skill levels. Dive in, explore, and enhance your data science journey!
+Code snippets, notes, and resources related to statistical concepts in data science.
 
-## Features
+## 2. Maths
 
-- **Comprehensive Content:** Covers a wide range of data science topics, including machine learning, data visualization, statistical analysis, and more.
+Explore mathematical foundations relevant to data science.
 
-- **Code Snippets:** Practical code examples to help you implement various data science techniques and algorithms.
+## 3. Python Programming
 
-- **Contributor-friendly:** Open to contributions from the community. See [Contributing](#contributing) for details.
+Fundamentals of Python programming for data science.
 
-## Getting Started
+## 4. Python Libraries - Numpy, Pandas, Matplotlib, Seaborn, Sklearn
 
-To get started with the contents of this repository, follow these steps:
+Code snippets and examples utilizing popular Python libraries for data manipulation, visualization, and machine learning.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/data-science-repo.git
+## 5. Data Preprocessing Codes
 
+Practical code examples for data cleaning and preprocessing tasks.
 
+## 6. Machine Learning
 
-Explore the content:
-Dive into folders to find topics of interest.
+Implementation of various machine learning algorithms.
 
-Learn and contribute:
-Read the documentation and code, and feel free to contribute your own insights.
+## 7. Deep Learning
 
-Contents
-This repository includes, but is not limited to:
+Resources and code for deep learning applications.
 
-Machine Learning Algorithms
-Data Visualization Techniques
-Statistical Analysis Concepts
-Feature Engineering Code Snippets
-Feel free to explore and discover more!
+## 8. NLP/NLP by Krish Naik
 
-Contributing
-We welcome contributions! If you have valuable resources or code related to data science, check the Contributing Guidelines for details.
+Natural Language Processing content, including resources by Krish Naik.
 
-Credits
-A big thank you to all contributors and sources! Check Credits for detailed acknowledgments.
+## 9. SQL
 
-License
-This repository is licensed under the MIT License. You can use the code and resources with proper attribution.
+Database querying and manipulation for data science.
 
-Happy coding! 📊📈📉
+## 10. MLOPS
+
+Explore the intersection of machine learning and operations.
+
+## 11. Transformers
+
+Resources related to transformer models in data science.
+
+## 12. Others
+
+Additional content, notes, and resources covering miscellaneous topics.
+
+## Contributing
+
+Contributions are welcome! If you have valuable resources, notes, or code snippets to add, please follow the [Contributing Guidelines](CONTRIBUTING.md).
+
+## Credits
+
+A big thank you to all contributors and sources! Check [Credits](credits.md) for detailed acknowledgments.
+
+## License
+
+This repository is licensed under the [MIT License](LICENSE). Feel free to use the code and resources with proper attribution.
+
+Happy learning and coding! 📊📈📉
