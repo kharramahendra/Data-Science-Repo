@@ -1,13 +1,13 @@
-# Data Science Repository
+# Data Science Enthusiast's Resource Repository
 
-Welcome to the Data Science Repository! 🚀 This repository serves as a comprehensive resource for data scientists, providing a curated collection of code snippets, notes, and resources across various topics.
+Welcome to the Data Science Enthusiast's Resource Repository! 🚀 This repository is a comprehensive collection of books, cheatsheets, and code snippets covering the complete lifecycle of data science. Whether you're a beginner or an experienced practitioner, you'll find valuable resources organized into various folders.
 
 ## Table of Contents
 
 1. [Statistics](#1-statistics)
-2. [Maths](#2-maths)
+2. [Mathematics](#2-mathematics)
 3. [Python Programming](#3-python-programming)
-4. [Python Libraries](#4-python-libraries---numpy-pandas-matplotlib-seaborn-sklearn)
+4. [Python Libraries](#4-python-libraries)
 5. [Data Preprocessing Codes](#5-data-preprocessing-codes)
 6. [Machine Learning](#6-machine-learning)
 7. [Deep Learning](#7-deep-learning)
@@ -17,64 +17,49 @@ Welcome to the Data Science Repository! 🚀 This repository serves as a compreh
 11. [Transformers](#11-transformers)
 12. [Others](#12-others)
 
+## Note: Under Construction
+⚠️ Some sections are currently under construction, and we welcome your contributions to enhance and complete them. Feel free to contribute by adding resources, fixing issues, or suggesting improvements.
+
 ## 1. Statistics
+Explore foundational statistical concepts to understand and interpret data.
 
-Code snippets, notes, and resources related to statistical concepts in data science.
-
-## 2. Maths
-
-Explore mathematical foundations relevant to data science.
+## 2. Mathematics
+Discover mathematical concepts essential for data science applications.
 
 ## 3. Python Programming
+Enhance your Python programming skills with practical examples.
 
-Fundamentals of Python programming for data science.
-
-## 4. Python Libraries - Numpy, Pandas, Matplotlib, Seaborn, Sklearn
-
-Code snippets and examples utilizing popular Python libraries for data manipulation, visualization, and machine learning.
+## 4. Python Libraries
+Explore popular Python libraries like Numpy, Pandas, Matplotlib, Seaborn, and Scikit-learn.
 
 ## 5. Data Preprocessing Codes
-
-Practical code examples for data cleaning and preprocessing tasks.
+Access code snippets for data cleaning, handling missing values, and feature engineering.
 
 ## 6. Machine Learning
-
-Implementation of various machine learning algorithms.
+Dive into the world of machine learning with algorithms, models, and implementation guides.
 
 ## 7. Deep Learning
-
-Resources and code for deep learning applications.
+Explore neural networks, deep learning architectures, and frameworks.
 
 ## 8. NLP/NLP by Krish Naik
-
-Natural Language Processing content, including resources by Krish Naik.
+Get resources related to Natural Language Processing, curated by Krish Naik.
 
 ## 9. SQL
-
-Database querying and manipulation for data science.
+Master SQL for effective data retrieval and manipulation.
 
 ## 10. MLOPS
-
-Explore the intersection of machine learning and operations.
+Learn about Machine Learning Operations for deploying and managing models.
 
 ## 11. Transformers
-
-Resources related to transformer models in data science.
+Explore transformer models and their applications.
 
 ## 12. Others
-
-Additional content, notes, and resources covering miscellaneous topics.
-
-## Contributing
-
-Contributions are welcome! If you have valuable resources, notes, or code snippets to add, please contribute for the data science community.
+Find miscellaneous resources covering various aspects of data science.
 
 ## Credits
+We appreciate and acknowledge the contributions from various open sources. Check out the [Credits](./credits.md) file for details.
 
-A big thank you to all contributors and sources! Check [Credits](credits.md) for detailed acknowledgments.
+## Contribution
+Feel free to contribute to this repository by adding more resources, fixing issues, or suggesting improvements. Check the [Contribution Guidelines](./CONTRIBUTING.md) for details.
 
-## License
-
- Feel free to use the code and resources with proper attribution.
-
-Happy learning and coding! 📊📈📉
+Happy Learning! 📚✨
